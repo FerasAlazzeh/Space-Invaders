@@ -109,7 +109,7 @@ public class GameWorld extends Canvas implements Runnable {
             isAlive();
             updateEnemyStatus();
 
-            if (enemyBOSS.isEmpty()) {              //while score is 1000 spawn enemy ufo's
+            if (enemyBOSS.isEmpty()) {              
                 addEnemyUFO();
                 addEnemyFastShip();
             }
