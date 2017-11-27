@@ -65,7 +65,7 @@ public class GameWorld extends Canvas implements Runnable {
     public void run() {
         Long lasTime = System.nanoTime();
         final double amountOfTicks = 60;
-        double ns = 1000000000 / amountOfTicks;              //game keeps freezing think its gamme loop
+        double ns = 1000000000 / amountOfTicks;       
         double delta = 0; //calculated time passed
         int updates = 0;
         int frames = 0;
@@ -252,7 +252,7 @@ public class GameWorld extends Canvas implements Runnable {
 
     private void addEnemyUFO() {
 
-        int randomNumber = rand.nextInt(2000); // 0 to 4999
+        int randomNumber = rand.nextInt(2000); // 0 to 1999
 
         if (randomNumber < 10) {
             enemyUFO.add(new EnemyUFO(512, 10, ufo, ufoProjectile, this));
