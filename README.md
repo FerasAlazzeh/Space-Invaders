@@ -2,7 +2,7 @@
 
 # Overview
 
-I programmed my own spin of Space Invaders equipped with UFO's, Alien Ships, Alien Mother Ships, different types of projectiles, accurate collision detection, and smooth gameplay movement. I used an Active Rendering game loop like the one used in Notch's famous game Minecraft. This project was one of my favorites to program because it allowed me to show off my creativity, and skill. To learn more please press the GitHub icon.
+I programmed my own spin of Space Invaders equipped with UFO's, Alien Ships, Alien Mother Ships, different types of projectiles, accurate collision detection, and smooth gameplay movement. I used an Active Rendering game loop like the one used in Notch's famous game Minecraft. This project was one of my favorites to program because it allowed me to show off my creativity, and skill. 
 
 # Game Details
 
