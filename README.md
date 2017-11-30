@@ -19,7 +19,7 @@ You are fighting an army of alien ships. The goal of the game is to kill as many
 * Enemy UFO takes 1 hit to kill
 
 
-# Control's
+# Controls
 * w -> up 
 * a -> left
 * s -> down
